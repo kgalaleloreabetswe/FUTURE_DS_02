@@ -89,7 +89,8 @@ Data-driven decision making.
 
 The project highlights how data analytics can support customer retention strategies, reduce churn risk, and improve long-term recurring revenue growth.
 
-Repository Contents: 
+
+**Repository Contents:**
 Power BI Dashboard (.pbix), 
 Dashboard PDF,
 Cleaned Dataset (Excel/CSV),

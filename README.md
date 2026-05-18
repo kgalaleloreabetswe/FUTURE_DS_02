@@ -76,19 +76,6 @@ Investigate pricing and service concerns among fiber optic customers.
 Expand technical support offerings to improve customer satisfaction and retention. 
 
 
-**Key Outcome:**
-
-
-This project demonstrates end-to-end business intelligence and analytics skills, including:
-Data cleaning and transformation,
-Dashboard development,
-DAX calculations and KPI creation,
-Customer churn and retention analysis,
-Business storytelling and insight generation,
-Data-driven decision making.
-
-The project highlights how data analytics can support customer retention strategies, reduce churn risk, and improve long-term recurring revenue growth.
-
 
 **Repository Contents:**
 Power BI Dashboard (.pbix), 
